@@ -1,0 +1,5 @@
+-> Added all source files to Nagaraju_Vadranam_PA1-1.zip
+
+-> Added Readme file for instructions on how to run the jar 
+
+-> Added single jar file which contains map reduce job
